@@ -5,3 +5,4 @@ echo ".env" > .gitignore
 venv/
 strator-sandbox.zip
 .DS_Store
+.DS_Store
