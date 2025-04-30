@@ -21,3 +21,17 @@
    ```
 4. **View** results in the Notion “Test Outputs” DB of the *Strator Test* workspace.
 
+## Usage
+
+1. Activate the venv:
+   ```bash
+   source venv/bin/activate
+```bash
+## Usage
+
+1. Activate the venv:
+   ```bash
+   source venv/bin/activate
+cp .env.example .env
+pip install -r requirements.txt
+python run_test_agent.py
