@@ -3,3 +3,4 @@ echo ".env" > .gitignore
 # local secrets
 .env
 venv/
+strator-sandbox.zip
