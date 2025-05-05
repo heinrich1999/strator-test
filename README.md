@@ -80,3 +80,8 @@ This project runs an automation agent that:
     Zapier response code: 200
 
 ```
+
+## Notion Page
+
+View the generated Notion summary here:  
+<https://www.notion.so/Trend-Report-1ea7b8c603438173802ee6809a61448f>
